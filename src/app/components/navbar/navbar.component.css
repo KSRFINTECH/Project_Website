@@ -6,6 +6,6 @@
 }
 .navbar.bg-primary {
 color: #fff;
-background-color: #535F9B !important;
-box-shadow: 0 4px 20px 0px rgba(0, 0, 0, 0.14), 0 7px 12px -5px rgba(156, 39, 176, 0.46);
+background-color: rgba(83, 95, 155, 1) !important;
+box-shadow: 0 0px 0px 0px rgba(0, 0, 0, 0.14), 0 0px 0px -7px rgba(156, 39, 176, 0.46);
 }
